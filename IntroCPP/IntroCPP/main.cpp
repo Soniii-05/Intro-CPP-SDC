@@ -1,6 +1,7 @@
 #include <iostream> // dalla libreria iostream
 #include "IntroCPP.h"
 #include "Weapon.h"
+#include "EserciziLezione2.h"
 
 using namespace std; //per non dover riscrivere std in ogni riga
 
@@ -97,6 +98,30 @@ int main() {
 	cout << "Tipo Arma: " << armaPersonalizzata.TipoArma << endl;
 	cout << "Danno Arma: " << armaPersonalizzata.Danno << endl;
 	cout << "------------------------" << endl;
+	cout << endl;
+
+
+	//Esercizi Lezione 2
+	
+	cout << "--- Esercizi Lezione 2 ---" << endl;
+
+	Esercizio1 esercizioSemaforo;
+	esercizioSemaforo.Semaforo(Giallo);
+	cout << endl;
+
+	Esercizio2 esercizioArea;
+	esercizioArea.CalcoloArea(12, 5);
+	cout << endl;
+
+
+	Esercizio3 esercizioNumeriPari;
+	esercizioNumeriPari.StampareNumeriPari(20);
+	cout << endl;
+
+	Esercizio4 esercizioCicloWhile;
+	esercizioCicloWhile.CalcoloCicloWhile(5, 1);
+	cout << endl;
+
 
 
 	//Operatori 

@@ -5,7 +5,7 @@ using namespace std;
 
 void Calcolatrice::EsempioIfElse(int numero)
 {
-	if (numero > 0)		//se il numero è maggiore di 0 (operatori relazionari(
+	if (numero > 0)		//se il numero è maggiore di 0 (operatori relazionari)
 	{
 
 	}else if (numero < 0)		//se il numero è minore di 0

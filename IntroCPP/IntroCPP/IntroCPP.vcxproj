@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="EserciziLezione2.cpp" />
     <ClCompile Include="IntroCPP.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Operatori.cpp" />
@@ -131,6 +132,7 @@
     <ClCompile Include="Weapon.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="EserciziLezione2.h" />
     <ClInclude Include="IntroCPP.h" />
     <ClInclude Include="Operatori.h" />
     <ClInclude Include="Puntatori.h" />

@@ -14,5 +14,5 @@ void Puntatore::initPointers()
 {
 	//initPointers = &HP;
 
-	std::cout << "Value: " << initPointers << std::endl;
+	//std::cout << "Value: " << initPointers << std::endl;
 }
