@@ -1,2 +1,30 @@
 ﻿  EserciziLezione2.cpp
-  IntroCPP.vcxproj -> C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\x64\Debug\IntroCPP.exe
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.h(88,8): error C2143: errore di sintassi: ';' mancante prima di '<'
+  (compilazione del file di origine 'EserciziLezione2.cpp')
+  
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.h(88,8): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+  (compilazione del file di origine 'EserciziLezione2.cpp')
+  
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.h(88,26): error C2334: token imprevisti prima di '{'. Il corpo apparente della funzione verrà ignorato.
+  (compilazione del file di origine 'EserciziLezione2.cpp')
+  
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.cpp(110,30): error C2065: 'colori': identificatore non dichiarato
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.cpp(110,2): error C2530: 'colore': i riferimenti devono essere inizializzati
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.cpp(110,28): error C2143: errore di sintassi: ';' mancante prima di ':'
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.cpp(110,36): error C2143: errore di sintassi: ';' mancante prima di ')'
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.cpp(167,27): error C2084: la funzione 'void EsercizioPuntatori3::Raddoppia(int *)' ha già un corpo
+      C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.h(168,7):
+      vedere la precedente definizione di 'Raddoppia'
+  
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.cpp(173,2): error C2065: 'Raddoppia': identificatore non dichiarato
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.cpp(178,27): error C2084: la funzione 'void EsercizioPuntatori4::Scambia(int *,int *)' ha già un corpo
+      C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.h(179,7):
+      vedere la precedente definizione di 'Scambia'
+  
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.cpp(180,6): error C2082: ridefinizione del parametro formale 'a'
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\EserciziLezione2.cpp(181,6): error C2082: ridefinizione del parametro formale 'b'
+  main.cpp
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\main.cpp(166,22): warning C4101: 'esercizioPuntatori4': variabile locale senza riferimenti
+C:\Users\dices\Desktop\GIT-FORK\Unreal Engine\Intro C++ SDC\Intro-CPP-SDC\IntroCPP\IntroCPP\main.cpp(162,22): warning C4101: 'esercizioPuntatori3': variabile locale senza riferimenti
+  StruttureDiControllo.cpp
+  Generazione del codice in corso...

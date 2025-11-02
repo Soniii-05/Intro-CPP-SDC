@@ -122,6 +122,77 @@ int main() {
 	esercizioCicloWhile.CalcoloCicloWhile(5, 1);
 	cout << endl;
 
+	/*
+	* Esercizio5 esercizioDoWhile;
+	esercizioDoWhile.InputUtente();
+	cout << endl;
+	*/
+	
+
+	Esercizio6 esercizioOperatoriLogici;
+	esercizioOperatoriLogici.VerificaStudente(85, 90, 60);
+	cout << endl;
+
+	/*Esercizio7 esercizioColori;
+	esercizioColori.ForEachColor();
+	cout << endl;*/
+
+	/*Esercizio8 esercizioPrezzi;
+	esercizioPrezzi.CalcoloPrezzo();
+	cout << endl;*/
+
+	Esercizio9 esercizioPermessi;	
+	esercizioPermessi.ControlloPermessi();
+	cout << endl;
+
+
+	Esercizio10 esercizioBitwise;
+	esercizioBitwise.BitWaiseShift();
+	cout << endl;
+
+
+	EsercizioPuntatori1 esercizioPuntatori1;
+	esercizioPuntatori1.StampaValorePuntatore();
+	cout << endl;
+
+	EsercizioPuntatori2 esercizioPuntatori2;
+	esercizioPuntatori2.AggiornaPrezzo();
+	cout << endl;
+
+	EsercizioPuntatori3 esercizioPuntatori3;
+	//esercizioPuntatori3.Raddoppia(ptr);
+	cout << endl;
+
+	EsercizioPuntatori4 esercizioPuntatori4;
+	//esercizioPuntatori4.Scambia(int* a, int* b);
+	cout << endl;
+
+	EsercizioPuntatori5 esercizioPuntatori5;
+	esercizioPuntatori5.StampaStringa();
+	cout << endl;
+
+	EsercizioPuntatori6 esercizioPuntatori6;
+	esercizioPuntatori6.ArrayNumeri();
+	cout << endl;
+
+	EsercizioPuntatori7 esercizioPuntatori7;
+	esercizioPuntatori7.ArrayVoti();
+	cout << endl;
+
+	EsercizioPuntatori8 esercizioPuntatori8;
+	esercizioPuntatori8.Allocazione();
+	cout << endl;
+
+	EsercizioPuntatori9 esercizioPuntatori9;
+	esercizioPuntatori9.AccessoMembri();
+	cout << endl;
+
+	EsercizioPuntatori10 esercizioPuntatori10;
+	esercizioPuntatori10.PuntatoriAPuntatori();
+	cout << endl;
+
+
+
 
 
 	//Operatori 

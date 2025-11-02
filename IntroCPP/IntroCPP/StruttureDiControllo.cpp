@@ -71,6 +71,7 @@ void Calcolatrice::EsempioDoWhile(int limite)
 void Calcolatrice::EsempioForEach()
 {
 	vector<int> numeri = { 1, 2, 3, 4, 5 }; // esempio di collezione di interi
+	//o senza dichiarare std diventa: std::vector<std::int> 
 	
 	for (int numero : numeri)		//per ogni numero nella collezione numeri
 	{
